@@ -1,0 +1,4 @@
+create a .env
+add 
+1) MONGO_URL
+2) JWT_SECRET
